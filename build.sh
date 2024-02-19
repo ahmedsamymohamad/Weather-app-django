@@ -1,4 +1,5 @@
-pip install requirements
+
+pip install requirements.txt
 
 python manage.py migrate
 
